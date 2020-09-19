@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomProgressBarDemo", "CustomProgressBarDemo\CustomProgressBarDemo.csproj", "{51BAEED8-6A5C-43A5-96C0-B4609BCFD8FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomProgressBar", "CustomProgressBar\CustomProgressBar.csproj", "{F5B83F57-03F6-48E4-8E08-09A2C2AE7B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51BAEED8-6A5C-43A5-96C0-B4609BCFD8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BAEED8-6A5C-43A5-96C0-B4609BCFD8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BAEED8-6A5C-43A5-96C0-B4609BCFD8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BAEED8-6A5C-43A5-96C0-B4609BCFD8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B83F57-03F6-48E4-8E08-09A2C2AE7B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B83F57-03F6-48E4-8E08-09A2C2AE7B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B83F57-03F6-48E4-8E08-09A2C2AE7B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B83F57-03F6-48E4-8E08-09A2C2AE7B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<Window x:Class="NetEti.DemoApplications.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:NetEti.CustomControls;assembly=CustomProgressBar"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <local:CustomProgressBar Value="65" Height="30" Text="65%" IsIndeterminate="False" IsGlowing="True" Foreground="Crimson" Opacity="0.6"/>
+    </Grid>
+</Window>
