@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <AssemblyName>NetEti.$(MSBuildProjectName)</AssemblyName>
@@ -12,8 +12,8 @@
     <Company>NetEti</Company>
     <Description>Assembly mit einem konfigurierbaren Fortschrittsbalken (Farbe, Text)</Description>
     <Copyright>Copyright © $(Authors) 2013-2023</Copyright>
-    <AssemblyVersion>7.0.0.0</AssemblyVersion>
-    <FileVersion>7.0.0.0</FileVersion>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
+    <FileVersion>8.0.0.0</FileVersion>
     <PackageTags>NetEti Custom Controls ProgressBar Colors Text</PackageTags>
   </PropertyGroup>
 
